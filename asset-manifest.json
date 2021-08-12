@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-characters/static/css/main.e96b3309.chunk.css",
+    "main.js": "/breaking-bad-characters/static/js/main.08f539da.chunk.js",
+    "main.js.map": "/breaking-bad-characters/static/js/main.08f539da.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-characters/static/js/runtime-main.5c4f933d.js",
+    "runtime-main.js.map": "/breaking-bad-characters/static/js/runtime-main.5c4f933d.js.map",
+    "static/js/2.71e249b1.chunk.js": "/breaking-bad-characters/static/js/2.71e249b1.chunk.js",
+    "static/js/2.71e249b1.chunk.js.map": "/breaking-bad-characters/static/js/2.71e249b1.chunk.js.map",
+    "index.html": "/breaking-bad-characters/index.html",
+    "static/css/main.e96b3309.chunk.css.map": "/breaking-bad-characters/static/css/main.e96b3309.chunk.css.map",
+    "static/js/2.71e249b1.chunk.js.LICENSE.txt": "/breaking-bad-characters/static/js/2.71e249b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c4f933d.js",
+    "static/js/2.71e249b1.chunk.js",
+    "static/css/main.e96b3309.chunk.css",
+    "static/js/main.08f539da.chunk.js"
+  ]
+}
